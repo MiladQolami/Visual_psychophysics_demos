@@ -2,6 +2,8 @@
 
 This repository contains examples of Psychophysics tasks programmed using Psychtoolbox. They are created to help users to better understand how to create their own tasks using Psychtoolbox.
 
+![Example Image](https://github.com/MiladQolami/Visual_psychophysics_demos/blob/main/Paradigm_demo.png)
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
